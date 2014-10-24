@@ -19,3 +19,6 @@ Technologies web :
  - Struts2
  - JSF
 
+
+Application lourde :
+Technologie Swing
